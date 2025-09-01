@@ -1,3 +1,3 @@
 # ai-model
 
-Basic CNN implementation
+Basic CNN implementation of Dl model
